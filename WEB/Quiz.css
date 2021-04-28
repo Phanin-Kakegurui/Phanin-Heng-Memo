@@ -1,0 +1,197 @@
+.menu {
+    font-family: 'Time News Roman';
+    color: white;
+}
+p {
+    margin-right: 200px;
+    margin-left: 200px;
+    font-size: 25px;
+    font-family: 'Courier new';
+    color: black;
+    background: white;
+    width: 50%;
+    padding: 40px;
+    margin: 100px auto;
+    border-radius: 10px;
+}
+li {
+    font-size: 30px;
+    margin-left: 50px;
+    color: rgb(248, 244, 244);
+}
+h1 {
+    margin-left: 1500px;
+    font-family: 'Time News Roman';
+    font-size: 50px;
+    color: white;
+}
+h2 {
+    margin-left: 1500px;
+    color: white;
+    font-size: 100px;
+    font-family:'Times New Roman', Times, serif;
+}
+.upload-date {
+    font-size: 30px;
+    margin-left: 2000px;
+    color: white;
+    font-family: 'Courier new';
+}
+h3 {
+    color: rgb(252, 248, 248);
+    font-size: 30px;
+    background: rgb(95, 28, 33);
+    width: 50%;
+    padding: 40px;
+    border-radius: 50px;
+    margin: 100px auto;
+}
+footer {
+    margin-left: 100px;
+}
+.instruction {
+    margin-left: 10px;
+    font-size: 30px;
+    color: white;
+}
+body {
+    background-image: url('nebula.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0px;
+}
+.content {
+    background: black;
+    width: 50%;
+    padding: 40px;
+    margin: 100px auto;
+}
+br {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.author {
+    margin-left: 2000px;
+    color: white;
+    font-family: 'Courier new';
+    font-size: 25px;
+}
+address {
+    margin-left: 10px;
+    font-size: 30px;
+    color: white;
+}
+h5 {
+    font-size: 30px;
+    color: white;
+    margin-left: 950px;
+}
+.poster {
+    display: block;
+    margin-left: 665px;
+    margin-right: auto;
+    width: 50%;
+}
+.contact {
+    margin-left: 10px;
+    font-size: 50px;
+    color: white;
+    background: rgb(62, 62, 63);
+    width: 20%;
+    padding: 40px;
+    border-radius: 50px;
+}
+.quote {
+    font-size: 100px;
+    color: white;
+    display: block;
+    margin-left: 950px;
+    width: 50%;
+    font-family: Georgia;
+}
+blockquote {
+    margin-right: 200px;
+    margin-left: 200px;
+    font-size: 25px;
+    font-family: 'Courier new';
+    color: black;
+    background: white;
+    width: 50%;
+    padding: 40px;
+    margin: 100px auto;
+    border-radius: 10px;
+}
+.citation {
+    margin-left: 100px;
+    font-size: 40px;
+    color: white;
+    background: rgb(62, 62, 63);
+    width: 5%;
+    padding: 40px;
+    border-radius: 50px;
+}
+a {
+    margin-left: 100px;
+    font-size: 30px;
+    color: blanchedalmond;
+}
+.first-container {
+    margin-left: 855px;
+}
+.second-container {
+    margin-left: 855px;
+}
+.third-container {
+    margin-left: 855px;
+}
+.advertisement {
+    margin-left: 100px;
+    font-size: 50px;
+    color: white;
+    background: rgb(107, 114, 70);
+    width: 20%;
+    padding: 40px;
+    border-radius: 50px;
+}
+.description {
+    margin-left: 100px;
+    font-size: 30px;
+    color: white;
+}
+.output {
+    margin-left: 1300px;
+    font-size: 50px;
+    color: white;
+    background: rgb(192, 58, 5);
+    width: 5%;
+    padding: 40px;
+    border-radius: 50px;
+}
+.ads {
+    margin-left: 100px;
+}
+pre {
+    margin-right: 200px;
+    margin-left: 200px;
+    font-size: 25px;
+    font-family: 'Courier new';
+    color: black;
+    background: white;
+    width: 50%;
+    padding: 40px;
+    margin: 100px auto;
+    border-radius: 10px;
+}
+.CopyandReg {
+    font-size: 100px;
+    margin-left: 1300px;
+    color: rgb(248, 244, 244);
+}
+.Sponsor {
+    font-size: 50px;
+    margin-left: 1255px;
+    color: rgb(248, 244, 244);
+}
+.SponsorLogo {
+    margin-left: 1050px;
+}
